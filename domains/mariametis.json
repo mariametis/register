@@ -1,0 +1,10 @@
+{
+  "description": "My personal site/portfolio",
+  "owner": {
+    "username": "mariametis",
+    "email": "your-email@example.com"  // Optional, but recommended
+  },
+  "record": {
+    "CNAME": "mariametis.github.io"
+  }
+}
